@@ -9,4 +9,4 @@ But, this all will not give anything new only keeping the distance and the fan. 
 We are creating a different meta-world.
 
 [Link](https://opensea.io/MetaMetre) 
-![Image](/images/logo.jpg)
+![Image](images/logo.jpg)
