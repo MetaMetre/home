@@ -8,3 +8,5 @@ Sounds great, right?
 But, this all will not give anything new only keeping the distance and the fan. The people's lives will not get better and the world will not change, because of the economic model which will be same - The rich will get richer and the poor will get poorer 
 We are creating a different meta-world.
 
+[Link](https://opensea.io/MetaMetre) 
+![Image](/images/logo.jpg)
