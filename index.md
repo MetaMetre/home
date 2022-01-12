@@ -47,12 +47,6 @@ Our principles:
 Now your ordinary purchases not only a routine, but unreal experience which you can share with your friends and get all your purchases in reality. 
 
 
-The pages:
- 
-- Twitter: https://twitter.com/MetaMetre
-- NFT collection: https://opensea.io/MetaMetre
-- Telegram channel: https://t.me/MetaMetre
-
 
 
 
