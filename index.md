@@ -1,4 +1,4 @@
-![Image](https://github.com/MetaMetre/welcome/blob/master/Images/What-Is-The-Metaverse-An-Easy-Explanation-For-Anyone-600x400.png?raw=true)
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/What_Is_The_Metaverse_An_Easy_Explanation_For_Anyone_600x400fffsfvf.png?raw=true)
 
 •	first virtual worldwide mall for real products
 
