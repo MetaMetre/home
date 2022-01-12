@@ -1,14 +1,14 @@
 ![Image](https://github.com/MetaMetre/welcome/blob/master/Images/What_Is_The_Metaverse_An_Easy_Explanation_For_Anyone_600x400fffsfvf.png?raw=true)
 
-•	first virtual worldwide mall for real products
+•	First virtual worldwide mall for real products
 
 •	AR &VR technologies based
 
-•	gather all the best retail markets in meta reality
+•	Gather all the best retail markets in meta reality
 
-•	unreal extended customer experience
+•	Unreal extended customer experience
 
-•	new opportunities for sellers
+•	New opportunities for sellers
 
 •	Only right now! best option for investors 
 
