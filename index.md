@@ -1,6 +1,6 @@
 ![Image](https://raw.githubusercontent.com/MetaMetre/welcome/master/Images/logo.png)
 ![Image](https://github.com/MetaMetre/welcome/blob/master/Images/What_Is_The_Metaverse_An_Easy_Explanation_For_Anyone_600x400fffsfvf.png?raw=true)
-<center>
+
 -	First virtual worldwide mall for real products
 
 -	AR & VR technologies based
@@ -12,7 +12,7 @@
 -	New opportunities for sellers
 
 - **Only right now! best option for investors**
-</center>
+
 >Walk in the body of avatar, make fun with unreal visualizations, try on clothes and shoes, or twist the goods in your hands, make payments, and buy something that you will receive in reality.
 >Go shopping from any gadget that you have – smartphone, laptop or VR/AR equipment.
 >This is our future that comes true right now!
@@ -54,7 +54,7 @@ The rest М² will be sold gradually through open auctions
 >This land would cost more and more than more and more big the mall will be. Since the issue of square meters is limited, and demand will exceed supply – the value of NFT will >grow endlessly.
 
 
-<center>### Video The MetaMetre tower preview</center>
+### Video The MetaMetre tower preview
 
 <center><iframe width="auto" height="315" src="https://www.youtube.com/embed/EXs9evNsCSU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
@@ -76,6 +76,7 @@ The rest М² will be sold gradually through open auctions
 
 
 >Now your ordinary purchases not only a routine, but unreal experience which you can share with your friends and get all your purchases in reality. 
+
 
 ### The MetaMetre Mall now searching specialists:
 
