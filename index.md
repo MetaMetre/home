@@ -1,9 +1,9 @@
-![Image](https://github.com/MetaMetre/welcome/blob/master/Images/RMpart9.png?raw=true)
+![Image](https://raw.githubusercontent.com/MetaMetre/welcome/master/Images/logo.png)
 ![Image](https://github.com/MetaMetre/welcome/blob/master/Images/What_Is_The_Metaverse_An_Easy_Explanation_For_Anyone_600x400fffsfvf.png?raw=true)
-
+<center>
 -	First virtual worldwide mall for real products
 
--	AR &VR technologies based
+-	AR & VR technologies based
 
 -	Gather all the best retail markets in meta reality
 
@@ -11,8 +11,8 @@
 
 -	New opportunities for sellers
 
-**Only right now! best option for investors**
-
+- **Only right now! best option for investors**
+</center>
 >Walk in the body of avatar, make fun with unreal visualizations, try on clothes and shoes, or twist the goods in your hands, make payments, and buy something that you will receive in reality.
 >Go shopping from any gadget that you have – smartphone, laptop or VR/AR equipment.
 >This is our future that comes true right now!
@@ -31,7 +31,7 @@
 
 ![Image](https://raw.githubusercontent.com/MetaMetre/welcome/18b7bd2d65572d3b3b3d4cca2f2f284c653a0f4c/Images/004.jpg)
 
->For regular payments the MetaMetre mall use the NFTs as a stable coin function.
+>For regular payments the MetaMetre mall use the NFTs as a stablecoin function.
 
 ![Image](https://raw.githubusercontent.com/MetaMetre/welcome/18b7bd2d65572d3b3b3d4cca2f2f284c653a0f4c/Images/010.jpg)
 
@@ -54,7 +54,7 @@ The rest М² will be sold gradually through open auctions
 >This land would cost more and more than more and more big the mall will be. Since the issue of square meters is limited, and demand will exceed supply – the value of NFT will >grow endlessly.
 
 
-### Video The MetaMetre tower preview
+<center>### Video The MetaMetre tower preview</center>
 
 <center><iframe width="auto" height="315" src="https://www.youtube.com/embed/EXs9evNsCSU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
@@ -94,8 +94,10 @@ Please read all information about required vacancies [here](https://www.linkedin
 
 ### Follow us on:
 
-[Twitter](https://twitter.com/MetaMetre) 
-[Telegram](https://t.me/metametre) 
+[Twitter](https://twitter.com/MetaMetre)
+
+[Telegram](https://t.me/metametre)
+
 [MetaMetre NFT Collection](https://opensea.io/MetaMetre)
 
 ![Image](https://raw.githubusercontent.com/MetaMetre/welcome/master/Images/logo.png)
