@@ -1,4 +1,5 @@
-<center>![Image](https://github.com/MetaMetre/welcome/blob/master/Images/200x61.png?raw=true)</center>
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/200x61.png?raw=true)
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/150x115logo.png?raw=true)
 ![Image](https://github.com/MetaMetre/welcome/blob/master/Images/What_Is_The_Metaverse_An_Easy_Explanation_For_Anyone_600x400fffsfvf.png?raw=true)
 
 -	First virtual worldwide mall for real products
@@ -47,7 +48,7 @@ The rest М² will be sold gradually through open auctions
 
 -	the expectable profit of the tower would be around **$1000 per each meter/monthly**
 
-![Image](https://github.com/MetaMetre/welcome/blob/master/Images/sweet-ice-cream-photography-97452-unsplash22222.png?raw=true)
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/sweet-ice-cream-1300%20500.png?raw=true)
 
 ![Image](https://github.com/MetaMetre/welcome/blob/master/Images/S16.jpg?raw=true)
 
