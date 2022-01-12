@@ -53,11 +53,11 @@ The rest М² will be sold gradually through open auctions
 This land would cost more and more than more and more big the mall will be. Since the issue of square meters is limited, and demand will exceed supply – the value of NFT will grow endlessly.
 
 
-Video The MetaMetre tower preview
+### Video The MetaMetre tower preview
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EXs9evNsCSU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/EXs9evNsCSU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
-Roadmap
+### Roadmap
 
 ![Image](https://raw.githubusercontent.com/MetaMetre/welcome/18b7bd2d65572d3b3b3d4cca2f2f284c653a0f4c/Images/RMpart8.jpg)
 
@@ -67,14 +67,14 @@ We aim to be Metaworld’s NUMBER ONE Marketplace for virtual and real goods.
 Our mission is to create the space in metauniverse, where everyone can buy everything that needed, while enjoying unreal shopping experience. 
 
 
-Our principles:
+### Our principles:
 -	unique customer’s experience
 -	meta reality for the ordinary lifestyle
 -	best place for remote work
 -	philanthropy as the principal in management
 Now your ordinary purchases not only a routine, but unreal experience which you can share with your friends and get all your purchases in reality. 
 
-The MetaMetre Mall now searching specialists:
+### The MetaMetre Mall now searching specialists:
 
 Assistants of Media Project Manager
 Content makers & Copywriters
@@ -84,8 +84,10 @@ Virtual real estate agents
 
 Please read all information about required vacancies [here](https://www.linkedin.com/in/metametre/)
 
+### Follow us on:
 
+[Twitter](https://twitter.com/MetaMetre) 
+[Telegram](https://t.me/metametre) 
+[MetaMetre NFT Collection](https://opensea.io/MetaMetre)
 
-
-[MetaMetre Collection](https://opensea.io/MetaMetre) 
 ![Image](https://raw.githubusercontent.com/MetaMetre/welcome/master/Images/logo.png)
