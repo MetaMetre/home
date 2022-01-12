@@ -1,6 +1,4 @@
-<video width="320" height="240" controls>
-  <source type="video/mp4" src="https://youtu.be/EXs9evNsCSU">
-</video>
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/What-Is-The-Metaverse-An-Easy-Explanation-For-Anyone-600x400.png?raw=true)
 
 •	first virtual worldwide mall for real products
 
@@ -17,17 +15,22 @@
 Walk in the body of avatar, make fun with unreal visualizations, try on clothes and shoes, or twist the goods in your hands, make payments, and buy something that you will receive in reality.
 Go shopping from any gadget that you have – smartphone, laptop or VR/AR equipment.
 This is our future that comes true right now!
+
 ![Image](https://raw.githubusercontent.com/MetaMetre/welcome/18b7bd2d65572d3b3b3d4cca2f2f284c653a0f4c/Images/001.jpg)
+
 Shopping center Tower contain unlimited number of the floors.
 
 The mall economic model brings the value for every participant
 •	The buyers gets bonuses for every account top-up and every purchase for more future shopping.
 •	Constantly increasing flow of customers all over the world, zero taxes and free rental fee for the first months for retailers.
 •	The owners of virtual land under the tower get the profit from all mall’s income monthly.
+
 ![Image](https://raw.githubusercontent.com/MetaMetre/welcome/18b7bd2d65572d3b3b3d4cca2f2f284c653a0f4c/Images/004.jpg)
 
 For regular payments the MetaMetre mall use the NFTs as a stable coin function.
+
 ![Image](https://raw.githubusercontent.com/MetaMetre/welcome/18b7bd2d65572d3b3b3d4cca2f2f284c653a0f4c/Images/010.jpg)
+
 •	Only 14,400 М² total of virtual land under the tower
 Each М² bring income from all the tower, and from unlimited number of the floors 
 •	Only 1 ETH cost for first 50 М²
@@ -36,12 +39,16 @@ The rest М² will be sold gradually through open auctions
 •	next 3-5 years retail sales in Meta Mall will reach a turnover several hundred billion dollars per month
 •	the expectable profit of the tower would be around $1000 per each meter/monthly
 
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/sweet-ice-cream-photography-97452-unsplash22222.png?raw=true)
+
 ![Image](https://github.com/MetaMetre/welcome/blob/master/Images/S16.jpg?raw=true)
 
 This land would cost more and more than more and more big the mall will be. Since the issue of square meters is limited, and demand will exceed supply – the value of NFT will grow endlessly.
 
 
 Video The MetaMetre tower preview
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EXs9evNsCSU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![Image](https://raw.githubusercontent.com/MetaMetre/welcome/18b7bd2d65572d3b3b3d4cca2f2f284c653a0f4c/Images/RMpart8.jpg)
 Roadmap
@@ -66,10 +73,10 @@ Social networks manager
 Virtual real estate agents
 2D and 3D designer
 
-Please read all information about required vacancies here…
+Please read all information about required vacancies [here](https://www.linkedin.com/in/metametre/)
 
 
 
 
-[Link](https://opensea.io/MetaMetre) 
+[MetaMetre Collection](https://opensea.io/MetaMetre) 
 ![Image](https://raw.githubusercontent.com/MetaMetre/welcome/master/Images/logo.png)
