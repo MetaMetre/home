@@ -1,5 +1,5 @@
 ![Image](https://github.com/MetaMetre/welcome/blob/master/Images/200x61.png?raw=true)
-![Image](https://github.com/MetaMetre/welcome/blob/master/Images/150x115logo.png?raw=true)
+
 ![Image](https://github.com/MetaMetre/welcome/blob/master/Images/What_Is_The_Metaverse_An_Easy_Explanation_For_Anyone_600x400fffsfvf.png?raw=true)
 
 -	First virtual worldwide mall for real products
@@ -102,4 +102,4 @@ Please read all information about required vacancies [here](https://www.linkedin
 
 [MetaMetre NFT Collection](https://opensea.io/MetaMetre)
 
-![Image](https://raw.githubusercontent.com/MetaMetre/welcome/master/Images/logo.png)
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/200x61.png?raw=true)
