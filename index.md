@@ -58,7 +58,7 @@ The rest М² will be sold gradually through open auctions
 This land would cost more and more than more and more big the mall will be. Since the issue of square meters is limited, and demand will exceed supply – the value of NFT will grow endlessly.
 
 
-<center><iframe width="100%" height="200%" src="https://www.youtube.com/embed/EXs9evNsCSU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+<center><iframe width="100%" height="500" src="https://www.youtube.com/embed/EXs9evNsCSU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
 >MetaMetre tower preview
 
