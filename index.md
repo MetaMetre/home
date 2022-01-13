@@ -80,7 +80,7 @@ Our mission is to create the space in metauniverse, where everyone can buy every
 -	Best place for remote work
 -	Philanthropy as the principal in management
 
-![Image](https://github.com/MetaMetre/welcome/blob/master/Images/1q92vl%201300%20500.png?raw=true)
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/meta.png?raw=true)
 
 >Now your ordinary purchases not only a routine, but unreal experience which you can share with your friends and get all your purchases in reality. 
 
