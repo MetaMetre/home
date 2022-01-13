@@ -10,7 +10,8 @@
 
 -	New opportunities for sellers
 
-### **Only right now! best option for investors**
+### **Only right now!** 
+### **Best option for investors**
 
 ![Image](https://github.com/MetaMetre/welcome/blob/master/Images/001.png?raw=true)
 
@@ -21,7 +22,7 @@ Walk in the body of avatar, make fun with unreal visualizations, try on clothes 
 Go shopping from any gadget that you have – smartphone, laptop or VR/AR equipment.
 This is our future that comes true right now!
 
-Shopping center **Tower** contain unlimited number of the floors.
+Shopping center contain unlimited number of the floors.
 
 ![Image](https://github.com/MetaMetre/welcome/blob/master/Images/008.png?raw=true)
 
@@ -59,11 +60,11 @@ This land would cost more and more than more and more big the mall will be. Sinc
 
 <center><iframe width="auto" height="315" src="https://www.youtube.com/embed/EXs9evNsCSU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
-### >MetaMetre tower preview
+**>MetaMetre tower preview**
 
 ### Roadmap
 
-![Image](https://raw.githubusercontent.com/MetaMetre/welcome/18b7bd2d65572d3b3b3d4cca2f2f284c653a0f4c/Images/RMpart8.jpg)
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/RMpart8.jpg?raw=true)
 
 
 
@@ -78,6 +79,7 @@ Our mission is to create the space in metauniverse, where everyone can buy every
 -	Best place for remote work
 -	Philanthropy as the principal in management
 
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/1q92vl%201300%20500.png?raw=true)
 
 >Now your ordinary purchases not only a routine, but unreal experience which you can share with your friends and get all your purchases in reality. 
 
