@@ -1,6 +1,4 @@
-![Image](https://github.com/MetaMetre/welcome/blob/master/Images/200x61.png?raw=true)
-
-![Image](https://github.com/MetaMetre/welcome/blob/master/Images/What-Is-The-Metaverse-1300500.png?raw=true)
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/What-Is-The-Metaverse-1300500%20(2).png?raw=true)
 
 -	First virtual worldwide mall for real products
 
