@@ -60,7 +60,8 @@ This land would cost more and more than more and more big the mall will be. Sinc
 
 <center><iframe width="auto" height="315" src="https://www.youtube.com/embed/EXs9evNsCSU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
-**>MetaMetre tower preview**
+>MetaMetre tower preview
+
 
 ### Roadmap
 
@@ -84,6 +85,7 @@ Our mission is to create the space in metauniverse, where everyone can buy every
 >Now your ordinary purchases not only a routine, but unreal experience which you can share with your friends and get all your purchases in reality. 
 
 
+
 ### The MetaMetre Mall now searching specialists:
 
 - Assistants of Media Project Manager
@@ -99,6 +101,8 @@ Our mission is to create the space in metauniverse, where everyone can buy every
 
 Please read all information about required vacancies [here](https://www.linkedin.com/in/metametre/)
 
+
+
 ### Follow us on:
 
 [Twitter](https://twitter.com/MetaMetre)
@@ -106,5 +110,7 @@ Please read all information about required vacancies [here](https://www.linkedin
 [Telegram](https://t.me/metametre)
 
 [MetaMetre NFT Collection](https://opensea.io/MetaMetre)
+
+
 
 ![Image](https://github.com/MetaMetre/welcome/blob/master/Images/200x61.png?raw=true)
