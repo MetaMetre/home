@@ -1,26 +1,27 @@
 ![Image](https://github.com/MetaMetre/welcome/blob/master/Images/What-Is-The-Metaverse-1300500%20(2).png?raw=true)
 
--	First virtual worldwide mall for real products
+###	- First virtual worldwide mall for real products
 
--	AR & VR technologies based
+###	AR & VR technologies based
 
--	Gather all the best retail markets in meta reality
+###	Gather all the best retail markets in meta reality
 
--	Unreal extended customer experience
+###	Unreal extended customer experience
 
--	New opportunities for sellers
+###	New opportunities for sellers
 
-- **Only right now! best option for investors**
+### **Only right now! best option for investors**
 
->Walk in the body of avatar, make fun with unreal visualizations, try on clothes and shoes, or twist the goods in your hands, make payments, and buy something that you will receive in reality.
->Go shopping from any gadget that you have – smartphone, laptop or VR/AR equipment.
->This is our future that comes true right now!
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/001.png?raw=true)
 
-![Image](https://raw.githubusercontent.com/MetaMetre/welcome/18b7bd2d65572d3b3b3d4cca2f2f284c653a0f4c/Images/001.jpg)
+Walk in the body of avatar, make fun with unreal visualizations, try on clothes and shoes, or twist the goods in your hands, make payments, and buy something that you will receive in reality.
 
->Shopping center **Tower** contain unlimited number of the floors.
+Go shopping from any gadget that you have – smartphone, laptop or VR/AR equipment.
+This is our future that comes true right now!
 
->The mall economic model brings the value for every participant
+Shopping center **Tower** contain unlimited number of the floors.
+
+The mall economic model brings the value for every participant
 
 -	The buyers gets bonuses for every account top-up and every purchase for more future shopping.
 
