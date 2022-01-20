@@ -57,6 +57,7 @@ The rest М² will be sold gradually through open auctions
 
 -	The expectable profit of the tower would be around **$1000 per each М²/monthly**
 
+[Reserve a space in the MetaMetre Mall](https://forms.gle/g3gQZjxgZq9xRdTw6)
 
 This land would cost more and more than more and more big the mall will be. Since the issue of square meters is limited, and demand will exceed supply – the value of NFT will grow endlessly.
 
