@@ -5,13 +5,15 @@
 
 ### First virtual worldwide mall for real products
 
--	AR & VR technologies based
+-	NFT, WEB 3.0, DeFi, Blockchain, AR & VR technologies based working on any mobile, desktop and tablet
 
 -	Gather all the best retail markets in meta reality
 
 -	Unreal extended customer experience
 
 -	New opportunities for sellers
+
+-	We are the first who use NFTs as crowdfunding, virtual profitable stocks and virtual currency for shopping inside the mall
 
 
 ![Image](https://github.com/MetaMetre/welcome/blob/master/Images/001.png?raw=true)
@@ -108,7 +110,7 @@ Please read all information about required vacancies [here](https://www.linkedin
 
 [Twitter](https://twitter.com/MetaMetre)
 
-[MetaMetre NFT Collection](https://opensea.io/MetaMetre)
+[MetaMetre NFT lands](https://opensea.io/MetaMetre)
 
 
 
