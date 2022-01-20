@@ -1,3 +1,6 @@
+[The only one MetaMetre AIRDROP ALERT](https://twitter.com/MetaMetre/status/1483526025573187587)
+
+
 ![Image](https://github.com/MetaMetre/welcome/blob/master/Images/What-Is-The-Metaverse-1300500%20(2).png?raw=true)
 
 ### First virtual worldwide mall for real products
@@ -10,8 +13,6 @@
 
 -	New opportunities for sellers
 
-### **Only right now!** 
-### **Best option for investors**
 
 ![Image](https://github.com/MetaMetre/welcome/blob/master/Images/001.png?raw=true)
 
@@ -52,7 +53,7 @@ The rest М² will be sold gradually through open auctions
 
 -	Next 3-5 years retail sales in Meta Mall will reach a turnover several hundred billion dollars per month
 
--	The expectable profit of the tower would be around **$1000 per each meter/monthly**
+-	The expectable profit of the tower would be around **$1000 per each М²/monthly**
 
 
 This land would cost more and more than more and more big the mall will be. Since the issue of square meters is limited, and demand will exceed supply – the value of NFT will grow endlessly.
@@ -99,15 +100,13 @@ Our mission is to create the space in metauniverse, where everyone can buy every
 - 2D and 3D designer
 
 
-Please read all information about required vacancies [here](https://www.linkedin.com/in/metametre/)
+Please read all information about required vacancies [here](https://www.linkedin.com/in/jyoti7ingh/)
 
 
 
 ### Follow us on:
 
 [Twitter](https://twitter.com/MetaMetre)
-
-[Telegram](https://t.me/metametre)
 
 [MetaMetre NFT Collection](https://opensea.io/MetaMetre)
 
