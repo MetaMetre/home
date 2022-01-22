@@ -101,7 +101,7 @@ Our mission is to create the space in metauniverse, where everyone can buy every
 Please read all information about required vacancies [here](https://www.linkedin.com/in/jyoti7ingh/)
 
 
-
+### INQUIRIES
 
 [FOR LAND SALE, REACH OUT TO US ON TELEGRAM](https://t.me/MetaMetre_team)
 
