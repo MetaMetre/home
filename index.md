@@ -102,9 +102,17 @@ Please read all information about required vacancies [here](https://www.linkedin
 
 
 [FOR LAND SALE, REACH OUT TO US ON TELEGRAM](https://t.me/MetaMetre_team)
+
 or
+
 [Reserve a space in the MetaMetre Mall](https://forms.gle/g3gQZjxgZq9xRdTw6)
 
 
+###CONTACT US
 
-![Image](https://github.com/MetaMetre/welcome/blob/master/Images/200x61.png?raw=true)
+
+CONTACTUS@METAMETRE.XYZ
+
+<center>![Image](https://github.com/MetaMetre/welcome/blob/master/Images/200x61.png?raw=true)</center>
+
+<center>©METAMETRE ALL RIGHTS RESERVED, 2022</center>
