@@ -107,10 +107,10 @@ Please read all information about required vacancies [here](https://www.linkedin
 
 or
 
-[Reserve a space in the MetaMetre Mall](https://forms.gle/g3gQZjxgZq9xRdTw6)
+[Fill free the form and reserve a space in the MetaMetre Mall](https://forms.gle/g3gQZjxgZq9xRdTw6)
 
 
-###CONTACT US
+### CONTACT US
 
 
 [CONTACTUS@METAMETRE.XYZ](mailto:contactus@metametre.xyz)
