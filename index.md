@@ -101,6 +101,8 @@ Our mission is to create the space in metauniverse, where everyone can buy every
 Please read all information about required vacancies [here](https://www.linkedin.com/in/jyoti7ingh/)
 
 
+
+
 [FOR LAND SALE, REACH OUT TO US ON TELEGRAM](https://t.me/MetaMetre_team)
 
 or
@@ -111,8 +113,8 @@ or
 ###CONTACT US
 
 
-CONTACTUS@METAMETRE.XYZ
+[CONTACTUS@METAMETRE.XYZ](mailto:contactus@metametre.xyz)
 
-<center>![Image](https://github.com/MetaMetre/welcome/blob/master/Images/200x61.png?raw=true)</center>
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/200x61.png?raw=true)
 
 <center>©METAMETRE ALL RIGHTS RESERVED, 2022</center>
