@@ -34,9 +34,12 @@ Shopping center contain unlimited number of the floors.
 
 -	The owners of virtual land under the tower get the profit from all mall’s income monthly.
 
-![Image](https://github.com/MetaMetre/welcome/blob/master/Images/HighresScreenshot00079.png?raw=true)
 
->For regular payments the MetaMetre mall use the NFTs as a stablecoin function.
+>For internal payments the MetaMetre mall use the NFTs as a stablecoin function.
+
+
+
+### How it works infographic
 
 ![Image](https://github.com/MetaMetre/welcome/blob/master/Images/half%20mall%201200800.png?raw=true)
 
