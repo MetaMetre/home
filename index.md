@@ -34,7 +34,7 @@ Shopping center contain unlimited number of the floors.
 
 -	The owners of virtual land under the tower get the profit from all mall’s income monthly.
 
-![Image](https://github.com/MetaMetre/welcome/blob/master/Images/HighresScreenshot00015.png?raw=true)
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/HighresScreenshot00079.png?raw=true)
 
 >For regular payments the MetaMetre mall use the NFTs as a stablecoin function.
 
@@ -79,13 +79,13 @@ Our mission is to create the space in metauniverse, where everyone can buy every
 -	Best place for remote work
 -	Philanthropy as the principal in management
 
-![Image](https://github.com/MetaMetre/welcome/blob/master/Images/HighresScreenshot00079.png?raw=true)
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/HighresScreenshot00043.png?raw=true)
 
 >Now your ordinary purchases not only a routine, but unreal experience which you can share with your friends and get all your purchases in reality. 
 
 
 
-### The MetaMetre Mall now searching specialists:
+### The MetaMetre now is hiring for specialists:
 
 - Assistants of Media Project Manager
 
