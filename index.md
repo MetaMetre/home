@@ -38,7 +38,7 @@ Shopping center contain unlimited number of the floors.
 
 >For regular payments the MetaMetre mall use the NFTs as a stablecoin function.
 
-![Image](https://github.com/MetaMetre/welcome/blob/master/Images/sweet-ice-cream-1300%20500.png?raw=true)
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/half%20mall%201200800.png?raw=true)
 
 ![Image](https://github.com/MetaMetre/welcome/blob/master/Images/S16.jpg?raw=true)
 
