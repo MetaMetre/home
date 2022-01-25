@@ -13,18 +13,18 @@
 -	We are the first who use NFTs as crowdfunding, virtual profitable stocks and virtual currency for shopping inside the mall
 
 
-![Image](https://github.com/MetaMetre/welcome/blob/master/Images/001.png?raw=true)
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/HighresScreenshot00010.png?raw=true)
 
 Walk in the body of avatar, make fun with unreal visualizations, try on clothes and shoes, or twist the goods in your hands, make payments, and buy something that you will receive in reality.
 
-![Image](https://github.com/MetaMetre/welcome/blob/master/Images/007.png?raw=true)
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/HighresScreenshot00050.png?raw=true)
 
 Go shopping from any gadget that you have – smartphone, laptop or VR/AR equipment.
 This is our future that comes true right now!
 
 Shopping center contain unlimited number of the floors.
 
-![Image](https://github.com/MetaMetre/welcome/blob/master/Images/008.png?raw=true)
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/HighresScreenshot00026.png?raw=true)
 
 ### The mall economic model brings the value for every participant
 
@@ -34,7 +34,7 @@ Shopping center contain unlimited number of the floors.
 
 -	The owners of virtual land under the tower get the profit from all mall’s income monthly.
 
-![Image](https://github.com/MetaMetre/welcome/blob/master/Images/010.png?raw=true)
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/HighresScreenshot00015.png?raw=true)
 
 >For regular payments the MetaMetre mall use the NFTs as a stablecoin function.
 
@@ -79,7 +79,7 @@ Our mission is to create the space in metauniverse, where everyone can buy every
 -	Best place for remote work
 -	Philanthropy as the principal in management
 
-![Image](https://github.com/MetaMetre/welcome/blob/master/Images/meta.png?raw=true)
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/HighresScreenshot00079.png?raw=true)
 
 >Now your ordinary purchases not only a routine, but unreal experience which you can share with your friends and get all your purchases in reality. 
 
