@@ -59,6 +59,8 @@ The rest М² will be sold gradually through open auctions
 
 This land would cost more and more than more and more big the mall will be. Since the issue of square meters is limited, and demand will exceed supply – the value of NFT will grow endlessly.
 
+-  The land sells in NFT format on the OpenSea platform right now. [LINK TO OPENSEA](https://opensea.io/MetaMetre)
+
 
 <center><iframe width="100%" height="500" src="https://www.youtube.com/embed/YweibxupggI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
