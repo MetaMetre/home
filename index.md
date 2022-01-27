@@ -99,7 +99,7 @@ Our mission is to create the space in metauniverse, where everyone can buy every
 - 
 
 ### Are you ready to become a founder?
-Buy your profitable virtual land now through NFT!
+Buy your profitable virtual land now through NFT on our Private Sale!
 Only 50M2 under of Innovative MetaMarket land for sale now! [Visit our Opensea profile](https://lnkd.in/eDqgaK3N)
 
 - 
@@ -111,7 +111,7 @@ Only 50M2 under of Innovative MetaMarket land for sale now! [Visit our Opensea p
 - 
 
 ### Are you investing in Metaverses?
-Buy your profitable virtual lands now through NFT!
+Buy your profitable virtual lands now through NFT on our Private Sale!
 Only 50M2 under of Innovative MetaMarket land for sale now! [Visit our Opensea profile](https://lnkd.in/eDqgaK3N)
 
 - 
@@ -119,7 +119,7 @@ Only 50M2 under of Innovative MetaMarket land for sale now! [Visit our Opensea p
 ### Do you want to be our partner? [REACH OUT TO US ON TELEGRAM](https://lnkd.in/eDyBBb45)
 - 
 
-### FOR LAND SALEs [REACH OUT TO US ON TELEGRAM](https://t.me/MetaMetre_team)
+### GENERAL LAND SALEs, rental of space and ADs placement  [REACH OUT TO US ON TELEGRAM](https://t.me/MetaMetre_team)
 - 
 
 ### Are you looking for a job in our team?
