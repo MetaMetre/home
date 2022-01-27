@@ -93,32 +93,34 @@ Our mission is to create the space in metauniverse, where everyone can buy every
 ## INQUIRIES
 
 ### Are you a retailer? [Please fill this form](https://lnkd.in/eWS8g2Zz)
--
+- 
 
 ### Are you an enthusiast? [Visit our Opensea profile](https://lnkd.in/eDqgaK3N)
--
+- 
 
 ### Are you ready to become a founder?
 Buy your profitable virtual land now through NFT!
 Only 50M2 under of Innovative MetaMarket land for sale now! [Visit our Opensea profile](https://lnkd.in/eDqgaK3N)
--
+
+- 
 
 ### Do you want demo access? [Please fill the form](https://lnkd.in/eWS8g2Zz)
--
+- 
 
 ### Are you a shopaholic? [Follow us on Twitter](https://lnkd.in/eiFMFJTF) and [LinkedIn](https://lnkd.in/eW3TqyQc)
--
+- 
 
 ### Are you investing in Metaverses?
 Buy your profitable virtual lands now through NFT!
 Only 50M2 under of Innovative MetaMarket land for sale now! [Visit our Opensea profile](https://lnkd.in/eDqgaK3N)
--
+
+- 
 
 ### Do you want to be our partner? [REACH OUT TO US ON TELEGRAM](https://lnkd.in/eDyBBb45)
--
+- 
 
 ### FOR LAND SALEs [REACH OUT TO US ON TELEGRAM](https://t.me/MetaMetre_team)
--
+- 
 
 ### Are you looking for a job in our team?
 The MetaMetre now is hiring for specialists:
@@ -134,6 +136,8 @@ The MetaMetre now is hiring for specialists:
 - 2D and 3D designer
 
 [Please read all information about required vacancies here](https://lnkd.in/erk6sHUP)
+
+- 
 
 
 
