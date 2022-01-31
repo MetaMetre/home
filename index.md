@@ -41,7 +41,7 @@ Shopping center contain unlimited number of the floors.
 
 ### How it works infographic
 
-![Image](https://github.com/MetaMetre/welcome/blob/master/Images/half%20mall%201200800.png?raw=true)
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/how%20it%20works.png?raw=true)
 
 ![Image](https://github.com/MetaMetre/welcome/blob/master/Images/S16.jpg?raw=true)
 
