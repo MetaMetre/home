@@ -1,4 +1,4 @@
-![Image](https://github.com/MetaMetre/welcome/blob/master/Images/What-Is-The-Metaverse-1300500%20(2).png?raw=true)
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/HighresScreenshot00010.png?raw=true)
 
 ### First worldwide virtual mall of physical and virtual goods.
 
@@ -13,7 +13,7 @@
 -	We are the first who use NFTs as crowdfunding, virtual profitable stocks and virtual currency for shopping inside the mall
 
 
-![Image](https://github.com/MetaMetre/welcome/blob/master/Images/HighresScreenshot00010.png?raw=true)
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/What-Is-The-Metaverse-1300500%20(2).png?raw=true)
 
 Walk in the body of avatar, make fun with unreal visualizations, try on clothes and shoes, or twist the goods in your hands, make payments, and buy something that you will receive in reality.
 
