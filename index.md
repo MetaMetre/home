@@ -47,7 +47,7 @@ Shopping center contain unlimited number of the floors.
 
 ![Image](https://github.com/MetaMetre/welcome/blob/master/Images/S16.jpg?raw=true)
 
--	Only **14,400 М²** total of virtual land UNDER the tower.
+-	Only **14,400 М²** total of virtual land UNDER the tower located in 16 sections, each has 900 square meters.
 
 Each М² bring income FROM ALL THE TOWER, and from unlimited number of the floors.
 
