@@ -12,19 +12,19 @@
 
 -	We are the first who use NFTs as crowdfunding, virtual profitable stocks and virtual currency for shopping inside the mall
 
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/HighresScreenshot00050.png?raw=true)
 
-![Image](https://github.com/MetaMetre/welcome/blob/master/Images/What-Is-The-Metaverse-1300500%20(2).png?raw=true)
 
 Walk in the body of avatar, make fun with unreal visualizations, try on clothes and shoes, or twist the goods in your hands, make payments, and buy something that you will receive in reality.
 
-![Image](https://github.com/MetaMetre/welcome/blob/master/Images/HighresScreenshot00050.png?raw=true)
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/HighresScreenshot00026.png?raw=true)
 
 Go shopping from any gadget that you have – smartphone, laptop or VR/AR equipment.
 This is our future that comes true right now!
 
 Shopping center contain unlimited number of the floors.
 
-![Image](https://github.com/MetaMetre/welcome/blob/master/Images/HighresScreenshot00026.png?raw=true)
+![Image](https://github.com/MetaMetre/welcome/blob/master/Images/What-Is-The-Metaverse-1300500%20(2).png?raw=true)
 
 ### The mall economic model brings the value for every participant
 
@@ -92,13 +92,13 @@ Our mission is to create the space in metauniverse, where everyone can buy every
 
 ## INQUIRIES
 
-### Are you a retailer or want demo access? [Please fill this form](https://lnkd.in/eWS8g2Zz)
+### For retailers inquiries and Mall demo access: [Please fill this form](https://lnkd.in/eWS8g2Zz)
 - 
 
-### Are you an enthusiast or investing in Metaverses?? [Visit our Opensea profile](https://lnkd.in/eDqgaK3N)
+### For enthusiasts and who investing in Metaverses: [Visit our Opensea profile](https://lnkd.in/eDqgaK3N)
 - 
 
-### GENERAL LAND SALEs, reservation of space, ADs placement and partnerships [MetaMetre Team](https://t.me/MetaMetre_team)
+### GENERAL LAND SALEs, reservation of space, ADs placement and partnerships: [MetaMetre Team](https://t.me/MetaMetre_team)
 - 
 
 ### [WE'RE HIRING](https://lnkd.in/erk6sHUP) 
