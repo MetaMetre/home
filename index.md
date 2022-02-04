@@ -98,10 +98,10 @@ Our mission is to create the space in metauniverse, where everyone can buy every
 ### Are you an enthusiast or investing in Metaverses?? [Visit our Opensea profile](https://lnkd.in/eDqgaK3N)
 - 
 
-### GENERAL LAND SALEs, reservation of space, ADs placement and partnerships [MetaMetre Team on TELEGRAM](https://t.me/MetaMetre_team)
+### GENERAL LAND SALEs, reservation of space, ADs placement and partnerships [MetaMetre Team](https://t.me/MetaMetre_team)
 - 
 
-[WE HIRING](https://lnkd.in/erk6sHUP)
+### [WE'RE HIRING](https://lnkd.in/erk6sHUP) 
 
 - 
 
