@@ -39,8 +39,6 @@ Shopping center contain unlimited number of the floors.
 -	The owners of virtual land under the tower get the profit from all mall’s income monthly.
 
 
->For internal payments the MetaMetre mall use the NFTs as a stablecoin function.
-
 
 
 ### How it works infographic
@@ -49,21 +47,23 @@ Shopping center contain unlimited number of the floors.
 
 ![Image](https://github.com/MetaMetre/welcome/blob/master/Images/S16.jpg?raw=true)
 
--	Only **14,400 М²** total of virtual land under the tower
-Each М² bring income from all the tower, and from unlimited number of the floors
+-	Only **14,400 М²** total of virtual land UNDER the tower.
 
--	**Only 1 ETH cost for first 50 М²**
-The rest М² will be sold gradually through open auctions
+Each М² bring income FROM ALL THE TOWER, and from unlimited number of the floors.
 
--	**Constant increase cost** of each М² till it all would be sold out
+-	**Only 1 ETH cost for first 50 М² within INO (Initial NFT Offering)**
+	
+The rest М² will be sold gradually through open auctions.
 
--	Next 3-5 years retail sales in Meta Mall will reach a turnover several hundred billion dollars per month
+-	**Constant increase cost** of each М² till it all would be SOLD OUT!
 
--	The expectable profit of the tower would be around **$1000 per each М²/monthly**
+-	Next 3-5 years retail sales in Meta Mall will reach a turnover several hundred billion dollars per month.
 
-This land would cost more and more than more and more big the mall will be. Since the issue of square meters is limited, and demand will exceed supply – the value of NFT will grow endlessly.
+-	The expectable PROFIT of the tower would be around **$1000 per each М²/monthly**.
 
--  The land sells in INO (Initial NFT Offering) format on the OpenSea platform right now. [LINK TO OPENSEA](https://opensea.io/MetaMetre)
+This land would cost more and more than more and more big the mall will be. Since the issue of square meters is limited, and demand will exceed supply – the value of NFT will GROW ENDLESSLY.
+
+-  The land sells in INO (Initial NFT Offering) format on the OpenSea platform right now: [ON OPENSEA](https://opensea.io/MetaMetre)
 
 
 
